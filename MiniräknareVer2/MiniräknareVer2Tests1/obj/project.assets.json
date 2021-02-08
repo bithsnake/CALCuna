@@ -5742,11 +5742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2Tests1\\MiniräknareVer2Tests1.csproj",
+      "projectUniqueName": "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2Tests1\\MiniräknareVer2Tests1.csproj",
       "projectName": "MiniräknareVer2Tests1",
-      "projectPath": "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2Tests1\\MiniräknareVer2Tests1.csproj",
+      "projectPath": "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2Tests1\\MiniräknareVer2Tests1.csproj",
       "packagesPath": "C:\\Users\\Kimmo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2Tests1\\obj\\",
+      "outputPath": "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2Tests1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5767,8 +5767,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj": {
-              "projectPath": "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj"
+            "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj": {
+              "projectPath": "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj": {}
+    "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj": {
+    "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj",
+        "projectUniqueName": "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj",
         "projectName": "MiniräknareVer2",
-        "projectPath": "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj",
+        "projectPath": "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj",
         "packagesPath": "C:\\Users\\Kimmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2\\obj\\",
+        "outputPath": "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

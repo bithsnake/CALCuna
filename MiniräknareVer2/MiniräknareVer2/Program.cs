@@ -6,37 +6,7 @@ namespace MiniräknareVer2
 {
     public class Miniräknare
     {
-
-        /*     
-            Tja!
-
-            Overall har jag tyckt att denna uppgift haft varit riktigt kul. Men även RIKTIGT RIKTIGT svår. I och med att jag börjar tänka på alla fel som kan hända. Och om 
-            man inte gör den så som du hade i ditt exempel där man först fäljer operator, och sedan matar in inputsen.
-
-
-            Det här innebär att det blir en massa kod som blir svår att dela upp till mindre metoder då situationerna är så olika...speciellt när det kommer till min
-            kalylator! :)
-
-            Det finns säkert ett väldigt mycket enklare sätt att göra en miniräknare på som har samma flöde som min har, där
-            man i princip nästan kan avbryta när som helst och t.ex. ändra operator vid tilltället operator ska anges genom att bara
-            skriva in en annan operator och [ENTER] fast du redan valt en, för att byta ut den du valde innan osv.
-
-            Med detta sagt hoppas jag du finner denna intressant ändå.
-
-            Har du frågor så fråga gärna!
-        
-            //Kimmo
-         */
-
-        /*Tänkte fixa Listan med att bara göra en string array och ha t.ex. : som delimiter med en .Split(":") funktion,
-         men jag tycker att det här är mer cleant och hoppas att det är ok!*/
         public static List<string> calcHistory = new List<string>();
-
-
-        /*OBS
-         Det här var det enda sättet jag kunde komma åt dessa variablar överallt, dvs göra dom "globala" , "statiska" inom denna klass.
-        Ge gärna kommentarer om detta.
-         */
         public static string    InputA          { get; private set; }
         public static string    InputB          { get; private set; }
         public static string    Op              { get; private set; }
@@ -44,13 +14,6 @@ namespace MiniräknareVer2
         public static string    CurrentState    { get; private set; }
         public static bool      AcceptedInput   { get; private set; }
         public static string    Calculation     { get; private set; }
-
-         /*
-          
-         * Jag har skapat tester på några utav alla metoder, men inte alla.
-         * Och jag har även försökt att använda try{} catch(){} där jag har känt att det behövs.
-         
-         */
 
         /// <summary>
         /// Shows the available commands for the current state you are in

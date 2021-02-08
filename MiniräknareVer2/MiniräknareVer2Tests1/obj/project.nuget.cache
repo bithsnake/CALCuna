@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KPlfq+Jq5pmmNLgqq5iGsAyZDvsXDzo+154iw4nwuX3ne+acgsufSY9nlp4iHl0DIla06t4HZinC6onhGShWYQ==",
+  "dgSpecHash": "VsKLIDY/32PnYSM+ZKC02sGSBSxeXa7NfJqsiW+SzTmszq0E48XXCmg8PHQx3hWdWnLuXcbNYqpyEj1RXIbnGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2Tests1\\MiniräknareVer2Tests1.csproj",
+  "projectFilePath": "E:\\GIT\\CALCuna\\MiniräknareVer2\\MiniräknareVer2Tests1\\MiniräknareVer2Tests1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kimmo\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Kimmo\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
