@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniräknareVer2", "MiniräknareVer2\MiniräknareVer2.csproj", "{BF7AA4D7-46B4-4A8E-86BA-355E424D8F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniräknareVer2Tests1", "MiniräknareVer2Tests1\MiniräknareVer2Tests1.csproj", "{EBE9B67C-3946-48DE-B978-530D52EE8E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7AA4D7-46B4-4A8E-86BA-355E424D8F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7AA4D7-46B4-4A8E-86BA-355E424D8F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7AA4D7-46B4-4A8E-86BA-355E424D8F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7AA4D7-46B4-4A8E-86BA-355E424D8F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE9B67C-3946-48DE-B978-530D52EE8E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE9B67C-3946-48DE-B978-530D52EE8E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE9B67C-3946-48DE-B978-530D52EE8E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE9B67C-3946-48DE-B978-530D52EE8E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7C43B6-4881-4E40-8F9F-3DE1CA91D505}
+	EndGlobalSection
+EndGlobal

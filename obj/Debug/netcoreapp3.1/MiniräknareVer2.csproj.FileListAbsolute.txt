@@ -1,0 +1,26 @@
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.exe
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.deps.json
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.runtimeconfig.json
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.runtimeconfig.dev.json
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.dll
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.pdb
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.AssemblyInfoInputs.cache
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.AssemblyInfo.cs
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.csproj.CoreCompileInputs.cache
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.dll
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.pdb
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.genruntimeconfig.cache
+C:\Users\Kimmo\source\repos\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.csprojAssemblyReference.cache
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.exe
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.deps.json
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.runtimeconfig.json
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.runtimeconfig.dev.json
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.dll
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.pdb
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.csprojAssemblyReference.cache
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.AssemblyInfoInputs.cache
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.AssemblyInfo.cs
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.csproj.CoreCompileInputs.cache
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.dll
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.pdb
+C:\Users\Kimmo\Desktop\Miniräknare backup\Backup Final\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.genruntimeconfig.cache

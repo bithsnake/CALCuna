@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ch9IWkW151VHdXLJgB/s4VwiKbdSdG2eiEGJAg+cfx434R3wT11ZPbmpAwVKLo7/AEcgQ4By1iDNI3U2mMs5jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kimmo\\Desktop\\Miniräknare backup\\Backup Final\\MiniräknareVer2\\MiniräknareVer2\\MiniräknareVer2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kimmo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kimmo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kimmo\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kimmo\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
