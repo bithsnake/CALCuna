@@ -30,7 +30,6 @@ E:\GIT\CALCuna\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\Minirä
 E:\GIT\CALCuna\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.runtimeconfig.dev.json
 E:\GIT\CALCuna\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.dll
 E:\GIT\CALCuna\MiniräknareVer2\MiniräknareVer2\bin\Debug\netcoreapp3.1\MiniräknareVer2.pdb
-E:\GIT\CALCuna\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.csprojAssemblyReference.cache
 E:\GIT\CALCuna\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.AssemblyInfoInputs.cache
 E:\GIT\CALCuna\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.AssemblyInfo.cs
 E:\GIT\CALCuna\MiniräknareVer2\MiniräknareVer2\obj\Debug\netcoreapp3.1\MiniräknareVer2.csproj.CoreCompileInputs.cache
