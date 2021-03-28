@@ -10,3 +10,7 @@ So, CALCuna is a colorful happy lightweight calculator that can do the following
 • Division
 • Convert from celcius to farenhet and vice versa
 • Calculate newtons seconds law of motion, the law of force.
+
+
+Created in Visual Studio
+C# .NET
